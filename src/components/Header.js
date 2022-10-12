@@ -21,7 +21,7 @@ const Header = () => {
                                 type="button"
                                 className="px-8 py-3 m-2 text-lg font-semibold rounded-full  text-gray-900 hover:bg-cyan-400 bg-cyan-200"
                             >
-                                Play Quiz
+                                Start Quiz
                             </button>
                         </Link>
                         <Link to="/about">

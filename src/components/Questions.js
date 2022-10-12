@@ -18,7 +18,7 @@ const Questions = ({ qs }) => {
     }
     return (
         <div>
-            <div className='bg-gray-300 p-6 rounded shadow-lg'>
+            <div className=' p-6 rounded shadow-lg'>
                 <h1 className='text-xl text-center'>{question}</h1>
                 <button onClick={() => handelClickButton(qs)}>
                     <EyeIcon className="h-6 w-6 my-5 text-indigo-700" />
