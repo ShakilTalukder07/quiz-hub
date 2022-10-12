@@ -15,9 +15,9 @@ const Quiz = ({ quiz }) => {
             <Link to={`/quiz/${id}`}>
                 <button
                     type='button'
-                    className='px-8 block w-full mt-4 py-3 font-semibold rounded-full bg-gray-400 text-gray-800 hover:bg-blue-400'
+                    className='px-8 block w-full mt-4 py-3 font-semibold rounded-full bg-gray-400 text-gray-800 hover:bg-blue-300'
                 >
-                    Play Now
+                    Start Now
                 </button>
             </Link>
         </div>
